@@ -1,0 +1,5 @@
+package springboot.consumer.wikimedia;
+
+public class KafkaDatabaseConsumer {
+
+}

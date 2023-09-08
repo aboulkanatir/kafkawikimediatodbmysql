@@ -1,0 +1,5 @@
+package springboot.producer.wikimedia;
+
+public class WikimediaChangesProducer {
+
+}

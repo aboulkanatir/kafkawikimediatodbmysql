@@ -1,0 +1,9 @@
+package springboot.consumer.wikimedia.repository;
+
+import org.springframework.data.jpa.repository.JpaRepository;
+
+import springboot.consumer.wikimedia.entity.WikimediaData;
+
+public interface WikimediaDataRepository extends JpaRepository<WikimediaData, Long> {
+
+}
